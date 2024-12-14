@@ -1,2 +1,2 @@
 # Dabaras_site
-https://github.com/BSIT-Web-Programming-2024/Dabaras_site
+https://bsit-web-programming-2024.github.io/Dabaras_site/
